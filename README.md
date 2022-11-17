@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? through my instagram by the link: https://www.instagram.com/silva_gabriell35/
+- 🧐 My "Rocketseat" profile: https://app.rocketseat.com.br/me/gabriel-da-silva-goncalves-08647
 
 <!---
 Gabrielsilva56/Gabrielsilva56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
